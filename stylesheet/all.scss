@@ -1,0 +1,18 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    overflow-x: hidden;
+    @font-face {
+        font-family: fontnew;
+        src: url(../font/Montserrat-VariableFont_wght.ttf);
+    }
+    font-family: fontnew;
+}
+li{
+    list-style-type: none;
+}
